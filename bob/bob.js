@@ -8,6 +8,11 @@ var Bob = function() {};
 Bob.prototype.hey = function(input) {
 //
 // YOUR CODE GOES HERE
+  if (true) {
+
+  } else {
+    return "Error"; //what's going on
+  }
 //
 };
 
