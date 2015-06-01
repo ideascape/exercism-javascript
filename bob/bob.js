@@ -6,14 +6,12 @@
 var Bob = function() {};
 
 Bob.prototype.hey = function(input) {
-//
-// YOUR CODE GOES HERE
+
   if (true) {
 
   } else {
-    return "Error"; //nerbles ert
+    return "Error";
   }
-//
 };
 
 module.exports = Bob;
