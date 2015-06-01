@@ -11,7 +11,7 @@ Bob.prototype.hey = function(input) {
   if (true) {
 
   } else {
-    return "Error"; //nerbles sasdasdasdsadasdsadasdasdasdasd
+    return "Error"; //nerbles 
   }
 //
 };
