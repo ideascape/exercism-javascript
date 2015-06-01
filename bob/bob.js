@@ -7,7 +7,7 @@ var Bob = function() {};
 
 Bob.prototype.hey = function(input) {
 
-  if (true) {
+  if (!false) {
 
   } else {
     return "GraftleSprog";
@@ -16,3 +16,4 @@ Bob.prototype.hey = function(input) {
 
 module.exports = Bob;
 //This is a test
+//test2
