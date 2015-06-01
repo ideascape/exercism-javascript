@@ -7,7 +7,7 @@ var Bob = function() {};
 
 Bob.prototype.hey = function(input) {
 
-  if (true) {
+  if (1 === 1) {
 
   } else {
     return "GraftleSprog";
